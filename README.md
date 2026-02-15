@@ -26,13 +26,6 @@
 * **Сложные интеграции в n8n:** связка ИИ с вашей CRM (Bitrix24, AmoCRM), Google Таблицами и почтой для полной автоматизации воронки продаж.
 * **Оптимизация Prompt-пайплайнов:** настройка системного промптинга для обеспечения 99% стабильности ответов и снижения затрат на токены.
 
----
-
-### 📈 Моя статистика на GitHub
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=zuzinamd-creator&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzinamd-creator&layout=compact&theme=tokyonight" alt="Languages" />
-</p>
 
 ---
 
