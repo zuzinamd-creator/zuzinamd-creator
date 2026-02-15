@@ -1,16 +1,43 @@
-## Hi there 👋
+# Привет! Я Маргарита 👋 
+### AI Solution Architect | Senior Prompt Engineer | Bot Developer
 
-<!--
-**zuzinamd-creator/zuzinamd-creator** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Я создаю интеллектуальные системы на базе больших языковых моделей (LLM), которые автоматизируют бизнес-логику, снижают нагрузку на персонал и исключают "галлюцинации" ИИ за счет использования RAG-архитектуры.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой профессиональный арсенал
+
+| Направление | Инструменты и технологии |
+| :--- | :--- |
+| **LLM Core** | GPT-4o, o1-preview, Claude 3.5 Sonnet (Artifacts), Gemini 1.5 Pro, Llama 3.1/3.2, DeepSeek |
+| **Vector Databases** | Weaviate, Pinecone, ChromaDB, FAISS |
+| **Prompt Engineering** | CoT (Chain-of-Thought), ReAct, Few-Shot, Multi-step reasoning, Structured Data Extraction (JSON/XML) |
+| **AI Frameworks & RAG** | LangChain, LlamaIndex, Flowise, LangFlow |
+| **No-Code Automation** | n8n (Advanced self-hosted flows)|
+| **Bot Development** | Aiogram (Python), Telegram Bot API, Discord |
+| **Developer Tools** | Python, Cursor IDE, Git, Docker, API (REST/Webhooks) |
+
+---
+
+### 🚀 Кейсы и решения для бизнеса:
+
+* **RAG-системы «под ключ»:** построение баз знаний на Weaviate и Pinecone для мгновенного поиска по внутренним документам компании (PDF, Notion, SQL).
+* **Автономные AI-агенты:** создание ботов, которые сами принимают решения, пользуются инструментами (браузер, калькулятор, API) и доводят клиента до покупки.
+* **Сложные интеграции в n8n:** связка ИИ с вашей CRM (Bitrix24, AmoCRM), Google Таблицами и почтой для полной автоматизации воронки продаж.
+* **Оптимизация Prompt-пайплайнов:** настройка системного промптинга для обеспечения 99% стабильности ответов и снижения затрат на токены.
+
+---
+
+### 📈 Моя статистика на GitHub
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=zuzinamd-creator&show_icons=true&theme=tokyonight&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zuzinamd-creator&layout=compact&theme=tokyonight" alt="Languages" />
+</p>
+
+---
+
+### 📞 Давайте обсудим ваш проект
+* **Telegram:** [@Margo_AI_Engineer]
+
+
+> "Превращаю хаос данных в структурированную прибыль вашего бизнеса."
